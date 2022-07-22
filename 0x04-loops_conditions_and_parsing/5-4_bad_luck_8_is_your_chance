@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# displays bad luck for 4th iteration and good luck for 8th, "Holberton School" for others
+# displays bad luck for 4th iteration and good luck for 8th, "Best School" for others
 n=1
 while [ $n -le 10 ]
 do
@@ -10,7 +10,7 @@ do
     then
 	echo "good luck"
     else
-	echo "Holberton School"
+	echo "Best School"
     fi
     let n++
 done
