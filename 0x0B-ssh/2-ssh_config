@@ -34,7 +34,7 @@ Host *
 #   IdentityFile ~/.ssh/id_rsa
 #   IdentityFile ~/.ssh/id_dsa
 #   IdentityFile ~/.ssh/id_ecdsa
-    IdentityFile ~/.ssh/holberton
+    IdentityFile ~/.ssh/school
 #   Port 22
 #   Protocol 2
 #   Ciphers aes128-ctr,aes192-ctr,aes256-ctr,aes128-cbc,3des-cbc
